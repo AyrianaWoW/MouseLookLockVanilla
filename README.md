@@ -1,6 +1,7 @@
 Mouse_Look_Lock v7.0 (For Legion)
 Trimble Epic -> TrimbleEpic@HotMail.Com
---Backported to Vanilla WoW v1.12 by Ayri of Turtle WoW
+
+Backported to Vanilla WoW v1.12 by Ayri of Turtle WoW
 
 Read Me!
 
